@@ -1,4 +1,5 @@
-
+/* This employee data will be used to answer various questions using SQL queries. This scrip contains 3 different tables which are departments, regions, employee
+*/
 create table departments (
     department varchar(100),
     division varchar(100),
